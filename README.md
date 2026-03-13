@@ -1,2 +1,2 @@
-# Banco de Dados Sistema-Medico
-Projeto Integrador - Senac
+# Banco de Dados Sistema Medico
+Projeto Integrador - Usando SQL
